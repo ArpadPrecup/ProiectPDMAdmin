@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "233048913277",
+    "firebase_url": "https://csoinchirieri.firebaseio.com",
+    "project_id": "csoinchirieri",
+    "storage_bucket": "csoinchirieri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233048913277:android:4fafbaed7fd91d167d8814",
+        "android_client_info": {
+          "package_name": "com.example.csonchirieriadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233048913277-lgn4efm87lpsvnoeo4v3v4d1isp9vi5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD8vvCPKDB_vyo65HiDoDrNVnUG5P_8DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233048913277-lgn4efm87lpsvnoeo4v3v4d1isp9vi5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233048913277:android:2447183f96a042d17d8814",
+        "android_client_info": {
+          "package_name": "com.example.rentsportfieldfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233048913277-mtpe6h71q9akcpoeeahql7085aa4skkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentsportfieldfinal",
+            "certificate_hash": "6c63b54f7990d36eaf721701ef60d7a07544caec"
+          }
+        },
+        {
+          "client_id": "233048913277-lgn4efm87lpsvnoeo4v3v4d1isp9vi5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD8vvCPKDB_vyo65HiDoDrNVnUG5P_8DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233048913277-lgn4efm87lpsvnoeo4v3v4d1isp9vi5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

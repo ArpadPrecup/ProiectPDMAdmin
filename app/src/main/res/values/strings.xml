@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CSO închirieri admin</string>
+    <string name="title">CSO Cugir</string>
+    <string name="administrare">Administrare</string>
+    <string name="questionMainActivity">Vezi închirierile din:</string>
+    <string name="btnMainActivity">Vezi închirierile</string>
+    <string name="option1">Sintetic:</string>
+    <string name="option2">Sală:</string>
+    <string name="option3">Tenis:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
